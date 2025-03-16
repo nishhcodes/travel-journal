@@ -18,7 +18,11 @@ const Hero = () => {
             <div className="flex gap-2 items-center">
               <img src={marker} className="h-6" />
               <p className="tracking-widest font-semibold">JAPAN</p>
-              <a href="#" className="underline text-gray-400 ml-2">
+              <a
+                href="https://www.google.com/maps?q=35.36107954314633,138.7275350059971"
+                className="underline text-gray-400 ml-2"
+                target="e_blank"
+              >
                 view on Google Maps
               </a>
             </div>
@@ -43,7 +47,11 @@ const Hero = () => {
             <div className="flex gap-2 items-center">
               <img src={marker} className="h-6" />
               <p className="tracking-widest font-semibold">AUSTRALIA</p>
-              <a href="#" className="underline text-gray-400 ml-2">
+              <a
+                href="https://www.google.com/maps?q=-33.85666847963728, 151.21525376079146"
+                className="underline text-gray-400 ml-2"
+                target="e_blank"
+              >
                 view on Google Maps
               </a>
             </div>
@@ -69,7 +77,11 @@ const Hero = () => {
             <div className="flex gap-2 items-center">
               <img src={marker} className="h-6" />
               <p className="tracking-widest font-semibold">NORWAY</p>
-              <a href="#" className="underline text-gray-400 ml-2">
+              <a
+                href="https://www.google.com/maps?q=62.1023995107754, 7.205403106621378"
+                className="underline text-gray-400 ml-2"
+                target="e_blank"
+              >
                 view on Google Maps
               </a>
             </div>
