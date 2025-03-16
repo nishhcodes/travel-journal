@@ -6,14 +6,14 @@ The Travel Journal UI is a React-based frontend design showcasing a visually app
 
 ### 🚀 Features
 
-Beautiful UI for travel journaling
+- Beautiful UI for travel journaling
 
-Responsive design with Tailwind CSS
+- Responsive design with Tailwind CSS
 
-Placeholder content for demonstration
+- Placeholder content for demonstration
 
 ### 🛠 Tech Stack
 
-Frontend: React, Tailwind CSS
+- Frontend: React, Tailwind CSS
 
 Enjoy the design! 🎨✨
